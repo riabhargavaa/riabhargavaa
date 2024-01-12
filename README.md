@@ -1,6 +1,6 @@
 👋 Hi, I’m @riabhargavaa
 
-👀 I’m interested in CS
+👀 I’m majoring in CS and Statistics at UIUC
 
 💞️ I’m looking to collaborate on Projects
 
