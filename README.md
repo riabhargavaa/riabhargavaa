@@ -14,6 +14,4 @@ C++/C
 Python
 SQL
 Java
-Go
-Rust
 Javascript
